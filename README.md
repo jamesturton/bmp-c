@@ -7,6 +7,8 @@ The design is functionally the same as v2.1, but simply with a new connector.
 
 ![bmp-c-3d.png](https://github.com/jamesturton/bmp-c/raw/master/bmp-c-3d.png)
 
+![bmp-c-real.jpg](https://github.com/jamesturton/bmp-c/raw/master/bmp-c-real.jpg)
+
 ## Known issues
 ### Schematic
  - 
